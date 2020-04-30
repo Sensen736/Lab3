@@ -1,8 +1,9 @@
 hello group:
-Name | Mail
-Omar | ohussein@mail.yu.edu
-Yalin |
-Xaioja |
-Sunny |
+|Name|Mail|
+| ---------- | ----------- |
+|Omar|ohussein@mail.yu.edu|
+|Yalin|@mail.yu|
+|Xaioja|@mail.yu|
+|Sunny|@mail.yu|
 ----------------------
 UPDATED AGAIN :)

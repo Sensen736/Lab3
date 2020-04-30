@@ -1,3 +1,13 @@
+# Group Brandon - Lab 3 Exercise
+
+| Name 	  | Email|
+| ------------- | ------------- |
+| Brandon Chiazza | brandon.chiazza@yu.edu |
+| Jacob Goodman	  | jlgoodm1@mail.yu.edu |
+
+
+
+
 # Lab #3: Develop Code Repository and Push Commits 
 
 

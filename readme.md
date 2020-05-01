@@ -253,3 +253,13 @@ This part of the lab is going to require you to take the following steps:
 
 ![](./img/lab03-5.png)
 
+hello group:
+|Name|Mail|
+| ---------- | ----------- |
+|Omar|ohussein@mail.yu.edu|
+|Yalin|@mail.yu|
+|Xaioja|@mail.yu|
+|Sunny|@mail.yu|
+----------------------
+UPDATED AGAIN :)
+

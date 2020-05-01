@@ -1,0 +1,3 @@
+I uplouded the CSV file to github instead of AWS S3, until you fix the S3 publication problem
+
+Thanks

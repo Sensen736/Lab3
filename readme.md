@@ -1,7 +1,13 @@
-# Group_5- Qi Sun - Lab 3 Exercise
+# Group_5 - Lab 3 Exercise
 
+|Name|Mail|
+| ---------- | ----------- |
+|Qi Sun|qi.sun1@yu.edu|
 
+|Gege Li||
+|Yusen Wu||
 
+----------------------------------------------------------------
 
 # Lab #3: Develop Code Repository and Push Commits 
 

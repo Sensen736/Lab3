@@ -1,8 +1,22 @@
 # Lab #3: Develop Code Repository and Push Commits 
 
 
+# Group Members
+
+|Name|Mail|
+| ---------- | ----------- |
+|Omar|ohussein@mail.yu.edu|
+|Yalin|yyan2@mail.yu|
+|Xaioja|@mail.yu|
+|Sunny|@mail.yu|
+----------------------
+UPDATED AGAIN :)
+
+
 **Points: 10**  
 **Assignment Type: Group submissions**
+
+
 
 ### Description:
 
@@ -254,12 +268,4 @@ This part of the lab is going to require you to take the following steps:
 ![](./img/lab03-5.png)
 
 hello group:
-|Name|Mail|
-| ---------- | ----------- |
-|Omar|ohussein@mail.yu.edu|
-|Yalin|@mail.yu|
-|Xaioja|@mail.yu|
-|Sunny|@mail.yu|
-----------------------
-UPDATED AGAIN :)
 
